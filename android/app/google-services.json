@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573217921792",
+    "firebase_url": "https://fruitbox-4bb62-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fruitbox-4bb62",
+    "storage_bucket": "fruitbox-4bb62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573217921792:android:3091797a700d6fef2af1e5",
+        "android_client_info": {
+          "package_name": "com.example.fruitbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573217921792-7cko052ap79negs6aq0tvf25viveq3cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruitbox",
+            "certificate_hash": "590eee68a4fd265d3b3c53c2b6d82284df81e112"
+          }
+        },
+        {
+          "client_id": "573217921792-5enrs0qh88a9o49qrohn78e5p8n7toni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWW2ZEu04iXpTf-alBsPISwVrhN39WBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573217921792-5enrs0qh88a9o49qrohn78e5p8n7toni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
