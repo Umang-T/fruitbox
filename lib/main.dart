@@ -8,7 +8,7 @@ import 'package:fruitbox/router.dart' as custom_router;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   const firebaseOptions = FirebaseOptions(
-      apiKey: 'AIzaSyAfG7W_M-PdeECHtdEMYFgFgNBlzkz26ic',
+      apiKey: '',
       authDomain: 'fruitbox-4bb62.firebaseapp.com',
       databaseURL:
       'https://fruitbox-4bb62-default-rtdb.asia-southeast1.firebasedatabase.app',
